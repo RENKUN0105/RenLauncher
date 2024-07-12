@@ -212,7 +212,7 @@ checking = "ニュースをチェックする"
 
 [js.landing.discord]
 loading = "ゲームを読み込み中.."
-joining = "RENサーバーへ"
+joining = "RENランチャー"
 joined = "RENSERVERに参加しよう！"
 
 [js.overlay]
